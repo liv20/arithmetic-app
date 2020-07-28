@@ -1,0 +1,6 @@
+framework module Pods_Arithmetic {
+  umbrella header "Pods-Arithmetic-umbrella.h"
+
+  export *
+  module * { export * }
+}
